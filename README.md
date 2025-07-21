@@ -12,15 +12,15 @@ An Android app to calculate Body Mass Index (BMI) using height (in feet/inches) 
 - Shows health status: Underweight, Normal, Overweight, or Obese
 
 ---
+## 📦 Download APK
+
+📲 [Click here to download BMI Calculator](https://github.com/dev-deepanshu01/BMI-Calculator-App/raw/main/bmi-calculator.apk)
+
+---
 
 ## 📸 App Screenshot
 
 ![BMI App Screenshot](./screenshot.jpg)
-
-
-## 📦 Download APK
-
-📲 [Click here to download BMI Calculator](https://github.com/dev-deepanshu01/BMI-Calculator-App/raw/main/bmi-calculator.apk)
 
 ---
 
