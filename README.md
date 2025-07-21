@@ -14,7 +14,7 @@ An Android app to calculate Body Mass Index (BMI) using height (in feet/inches) 
 ---
 ## 📦 Download APK
 
-📲 [Click here to download BMI Calculator](https://github.com/dev-deepanshu01/BMI-Calculator-App/raw/main/bmi-calculator.apk)
+📲 [Click here to download BMI Calculator](https://github.com/dev-deepanshu01/BMI-Calculator-App/raw/main/bmi_calculator.apk)
 
 ---
 
